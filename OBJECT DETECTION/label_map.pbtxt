@@ -1,0 +1,8 @@
+item{
+    name:'mask'
+    id:1
+}
+item{
+    name:'helmet'
+    id:2
+}
